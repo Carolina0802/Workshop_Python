@@ -1,0 +1,5 @@
+name,age,balance,is_active,join_date
+John Doe,30,1000.50,true,2020-01-15
+Jane Smith,25,1500.75,false,2021-06-30
+Alice Johnson,35,2500.00,true,2019-11-20
+Bob Brown,40,3000.25,false,2018-03-05
